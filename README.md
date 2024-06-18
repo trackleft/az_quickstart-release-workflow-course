@@ -24,7 +24,13 @@ _Get started with managing releases for Arizona Quickstart in less than an hour.
 The Arizona Quickstart project uses GitHub for managing releases, including minor and patch releases. This course will guide you through the steps to effectively manage these releases using GitHub Actions.
 
 - **Who is this for**: Developers and project maintainers of the Arizona Quickstart project.
-- **What you'll learn**: Preparing for a minor release, creating minor and patch releases, managing security releases, writing effective release notes, finding commits to add to a release, best practices, and troubleshooting.
+- **What you'll learn**:
+  - Preparing for a minor release
+  - Creating minor and patch releases
+  - Managing security releases
+  - Writing effective release notes
+  - Finding commits to add to a release
+  - Best practices, and troubleshooting
 - **Prerequisites**: Basic knowledge of GitHub and GitHub Actions, familiarity with the `az-digital/az_quickstart` project.
 - **How long**: This course takes approximately 45 minutes to complete, covering 4 steps.
 
